@@ -1,0 +1,2 @@
+# IceGate
+Snowflake Permission Management
